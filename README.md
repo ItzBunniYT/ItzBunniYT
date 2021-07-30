@@ -8,7 +8,7 @@
 - [DeltaSecurity Systems](https://github.com/DeltaDevOp) (Founded by me and NeverLand) - Currently owning.
 - [Misq-Development](https://github.com/Misq-Development) {Founded by Quartz and Owned by Me} - Resigned due to Dev Team Shut Down, Still managed by DevQuartz
 - [Artemis](https://github.com/Artemis-Development) {Owned by Dannnington & ignJosh} - Resigned due to personal reasons.
-- [Sentinel](https://github.com/TeamSentinel) - Abandonded 
+- [Sentinel](https://github.com/TeamSentinel) - abandoned
 - [Solex Games](https://github.com/SolexGames) {Owned by @GrowlyX} - Resigned
         
 About me:
